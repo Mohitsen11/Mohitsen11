@@ -1,17 +1,17 @@
 [![MasterHead](https://static.vecteezy.com/system/resources/previews/000/457/353/original/vector-programming-flat-line-design-black-and-white-doodle-style-design-in-blue-banners-and-illustrations-of-business-and-technology-themes.jpg)]
 <h1 align="center">Hi 👋, I'm Mohitsen11</h1>
-<h3 align="center">A passionate competitive programmer from India</h3>
+<h3 align="center">A passionate competitive programmer and software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitsen11&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsen11" /> </p>
 
-- 🌱 I’m currently learning **python, DSA, HTML, CSS, JAVASCRIPT**
+- 🌱 I’m currently learning **DevOps , AWS , Frontend Webdev**
 
-- 💬 Ask me about **programming language**
+- 💬 Ask me about **programming , Networking , Git-GitHub , Figma , Cloud**
 
 - 📫 How to reach me **mohitsen0102@gmail.com**
 
-- ⚡ Fun fact **I am mischief**
+- ⚡ Fun fact **I am mischief a bit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
