@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitsen11&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsen11" /> </p>
 
-- 🌱 I’m currently learning **DevOps , AWS , Frontend Webdev**
+- 🌱 I’m currently learning **DevOps , AWS , FullStack Webdev**
 
 - 💬 Ask me about **programming , Networking , Git-GitHub , Figma , Cloud**
 
