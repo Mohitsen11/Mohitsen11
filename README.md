@@ -66,6 +66,10 @@
 <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/000000/api.png" alt="RESTful API" width="40" height="40"/>
 </a>
+
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</a>
 </p>
 
 
