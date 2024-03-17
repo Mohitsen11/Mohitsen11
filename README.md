@@ -51,6 +51,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
+
+   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/soliditylang/soliditylang-icon.svg" alt="Solidity" width="40" height="40"/>
+  </a>
 </p>
 
 <p align="left">
