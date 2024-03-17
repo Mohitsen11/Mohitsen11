@@ -53,7 +53,7 @@
   </a>
 
    <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/soliditylang/soliditylang-icon.svg" alt="Solidity" width="40" height="40"/>
+    <img src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.html " alt="Solidity" width="40" height="40"/>
   </a>
 </p>
 
