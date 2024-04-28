@@ -140,3 +140,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsen11&" alt="mohitsen11" /></p>
 
+[![An image of @mohitsen11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitsen11)](https://holopin.io/@mohitsen11)
+
