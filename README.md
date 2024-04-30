@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps , AWS , FullStack Webdev**
 
-- 💬 Ask me about **programming , Networking , Git-GitHub , Figma , Cloud**
+- 💬 Ask me about **Development , Networking , Git-GitHub , Cloud**
 
 - 📫 How to reach me **mohitsen0102@gmail.com**
 
